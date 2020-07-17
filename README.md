@@ -1,7 +1,10 @@
 # little_flask
 
+#### Requirements
+flask, venv(if possible)
+
 #### Description
-First runnable website based on flask.
+LW's first runnable website based on flask.
 
 #### How to use
 set FLASK_APP=flask_200716.py in Windows
